@@ -12,3 +12,12 @@ Collection of interesting links to articles which helped me or possibly will in 
 - [MSC30-C. Do not use the rand() function for generating pseudorandom numbers](https://wiki.sei.cmu.edu/confluence/display/c/MSC30-C.+Do+not+use+the+rand%28%29+function+for+generating+pseudorandom+numbers)
 
 
+## WSL Docker
+- [Using Docker in WSL 2](https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2)
+- [Guide to install or uninstall Windows Subsystem for Linux on Windows 10 Anniversary Update and Creators Update](https://docs.microsoft.com/de-de/windows/wsl/install-legacy#uninstallingremoving-the-legacy-distro)
+- [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/de-de/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
+- [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
+
+
+
+- []()
