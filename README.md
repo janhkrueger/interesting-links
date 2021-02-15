@@ -11,6 +11,7 @@ Collection of interesting links to articles which helped me or possibly will in 
 ## Security related development
 - [MSC30-C. Do not use the rand() function for generating pseudorandom numbers](https://wiki.sei.cmu.edu/confluence/display/c/MSC30-C.+Do+not+use+the+rand%28%29+function+for+generating+pseudorandom+numbers)
 - [YubiKey-Guide ](https://github.com/drduh/YubiKey-Guide)
+- [Using SGX to harden password hashing (from 2016)](https://github.com/ctz/sgx-pwenclave)
 
 ## WSL Docker
 - [Using Docker in WSL 2](https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2)
