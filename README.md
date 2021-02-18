@@ -13,6 +13,10 @@ Collection of interesting links to articles which helped me or possibly will in 
 - [YubiKey-Guide ](https://github.com/drduh/YubiKey-Guide)
 - [Using SGX to harden password hashing (from 2016)](https://github.com/ctz/sgx-pwenclave)
 
+## Game development
+- [Game Programming Patterns](http://www.gameprogrammingpatterns.com)
+
+
 ## WSL Docker
 - [Using Docker in WSL 2](https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2)
 - [Guide to install or uninstall Windows Subsystem for Linux on Windows 10 Anniversary Update and Creators Update](https://docs.microsoft.com/de-de/windows/wsl/install-legacy#uninstallingremoving-the-legacy-distro)
