@@ -15,6 +15,7 @@ Collection of interesting links to articles which helped me or possibly will in 
 
 ## Game development
 - [Game Programming Patterns](http://www.gameprogrammingpatterns.com)
+- [Dark Patterns Games](https://www.darkpattern.games)
 
 
 ## WSL Docker
