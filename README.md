@@ -18,6 +18,7 @@ Collection of interesting links to articles which helped me or possibly will in 
 - [Dark Patterns Games](https://www.darkpattern.games)
 - [What cool maths have you used in your roguelikes?](https://www.reddit.com/r/roguelikedev/comments/9zoaec/what_cool_maths_have_you_used_in_your_roguelikes)
 - [A small optimization for A*](https://coffeebraingames.wordpress.com/2019/02/23/a-small-optimization-for-a/)
+- [FAQ Fridays REVISITED #42: Achievements and Scoring](https://www.reddit.com/r/roguelikedev/comments/c0csgj/faq_fridays_revisited_42_achievements_and_scoring/)
 
 
 ## WSL Docker
