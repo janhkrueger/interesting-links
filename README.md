@@ -16,6 +16,7 @@ Collection of interesting links to articles which helped me or possibly will in 
 ## Game development
 - [Game Programming Patterns](http://www.gameprogrammingpatterns.com)
 - [Dark Patterns Games](https://www.darkpattern.games)
+- [What cool maths have you used in your roguelikes?](https://www.reddit.com/r/roguelikedev/comments/9zoaec/what_cool_maths_have_you_used_in_your_roguelikes)
 
 
 ## WSL Docker
