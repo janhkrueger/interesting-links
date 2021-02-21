@@ -8,6 +8,7 @@ Collection of interesting links to articles which helped me or possibly will in 
 - [Let’s make a SOAP request from command line(curl)?](https://dasunhegoda.com/make-soap-request-command-line-curl/596/)
 - [curl basic auth using base64 encoded credentials](https://osric.com/chris/accidental-developer/2018/07/curl-basic-auth-base64-encoded-credentials/)
 - [Enterprise Integration Using REST](https://www.martinfowler.com/articles/enterpriseREST.html)
+- [Reading an image file in C/C++](https://stackoverflow.com/questions/2076475/reading-an-image-file-in-c-c)
 
 ## Security related development
 - [MSC30-C. Do not use the rand() function for generating pseudorandom numbers](https://wiki.sei.cmu.edu/confluence/display/c/MSC30-C.+Do+not+use+the+rand%28%29+function+for+generating+pseudorandom+numbers)
