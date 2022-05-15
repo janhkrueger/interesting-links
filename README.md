@@ -2,6 +2,11 @@
 
 Collection of interesting links to articles which helped me or possibly will in the future.
 
+## Nintendo Switch Rare Games
+- [Limited Run Games](https://limitedrungames.com/collections/nintendo-switch-games)
+- [Super Rare Game] (https://superraregames.com/)
+- [iam8bit] (https://www.iam8bit.com/collections/nintendo)
+
 ## development
 - [Feature flags](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/feature-flags)
 - [Zero runtime costs feature flags](https://stackoverflow.com/questions/51155408/zero-runtime-costs-feature-flags)
