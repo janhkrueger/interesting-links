@@ -39,3 +39,6 @@ Collection of interesting links to articles which helped me or possibly will in 
 
 ## Docker
 - [Setup HashiCorp Vault on Docker](https://blog.exxeta.com/en/2019/12/20/setup-hashicorp-vault-on-docker/)
+
+## Markdown
+- [Convert MediaWiki tables to Markdown tables](https://tableconvert.com/mediawiki-to-markdown)
