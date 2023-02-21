@@ -29,7 +29,8 @@ Collection of interesting links to articles which helped me or possibly will in 
 - [FAQ Friday #82: Character Stats](https://www.reddit.com/r/roguelikedev/comments/cqy8mf/faq_friday_82_character_stats/)
 - [Fast Leveling in Older Games](https://www.killtenrats.com/2009/05/04/fast-leveling-in-older-games/)
 - [Why do we play?](http://greedygoblin.blogspot.com/2009/08/why-do-we-play.html)
-
+- [The Entity-Component-System - An awesome game-design pattern in C++ (Part 1)](https://www.gamedeveloper.com/design/the-entity-component-system---an-awesome-game-design-pattern-in-c-part-1-)
+- [The Entity-Component-System - BountyHunter game (Part 2)](https://www.gamedeveloper.com/design/the-entity-component-system---bountyhunter-game-part-2-)
 
 ## WSL Docker
 - [Using Docker in WSL 2](https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2)
